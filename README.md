@@ -1,0 +1,1 @@
+# Image-upload-to-other-directory-in-php
